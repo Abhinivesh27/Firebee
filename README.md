@@ -1,6 +1,6 @@
 # firebee
 
-A new Flutter project.
+A new Flutter project for understanding Firebase integration with a flutter app.
 
 ## Getting Started
 
